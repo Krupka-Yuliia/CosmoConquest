@@ -1,0 +1,25 @@
+# Ignore the following directories and files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Pp]rojectSettings/
+# User-specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
+# Unity generated files
+.mono/
+*.swp
+*.suo
+*.user
+*.userprefs
+
+# Ignore crash dumps
+crash.dmp
